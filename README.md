@@ -21,6 +21,8 @@
 ### Linguagem de programação utilizada:
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![Static Badge](https://img.shields.io/badge/PASCAL-8A2BE2)
+ ![Static Badge](https://img.shields.io/badge/DELPHI-8A2BE2)
 
 ## Guia de Instalação:
 
