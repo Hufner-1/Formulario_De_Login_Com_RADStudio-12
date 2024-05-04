@@ -33,6 +33,15 @@
 
       Este Open-Source não vem com banco de dados configurado !
       Recomendo que use o Firebird 5.0 e adicione ao projeto.
+      
+## Compilar Projeto / Criar executavel : 
+
+
+      Para compilar o projeto, vá para "Project" > "Build" 
+      no menu ou pressione Ctrl + F9.
+      Verifique a janela de mensagens
+      para erros ou avisos durante o processo de compilação
+      e resolva-os conforme necessário.
 
 ## PRINTSCREENS : 
 
